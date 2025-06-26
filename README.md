@@ -70,6 +70,6 @@ TicTacToe/
 - 🌍 Multi-language support
 
 ## 🙋‍♂️ Developed By
-Ankit Prajapat
+* Ankit Prajapat *
 - 📧 ankitprajapat9414@gmail.com  
 - 🌐 https://github.com/ankitprajapat42/
