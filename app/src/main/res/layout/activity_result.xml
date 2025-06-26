@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="#FFF8E1">
+
+    <TextView
+        android:id="@+id/winner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="🎉 Winner: X 🎉"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#4CAF50"
+        android:padding="16dp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/loser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="😞 Better luck next time, O"
+        android:textSize="22sp"
+        android:textColor="#F44336"
+        android:padding="16dp"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/playAgainBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play Again"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:padding="12dp"
+        android:layout_marginTop="32dp"
+        android:backgroundTint="#2196F3"
+        android:textColor="#FFFFFF"
+        android:elevation="6dp" />
+
+</LinearLayout>
