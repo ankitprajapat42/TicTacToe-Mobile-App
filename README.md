@@ -69,7 +69,7 @@ TicTacToe/
 - 🌈 Animated winning line
 - 🌍 Multi-language support
 
-🙋‍♂️ Developed By
+## 🙋‍♂️ Developed By
 Ankit Prajapat
-📧 ankitprajapat9414@gmail.com  
-🌐 https://github.com/ankitprajapat42/
+- 📧 ankitprajapat9414@gmail.com  
+- 🌐 https://github.com/ankitprajapat42/
