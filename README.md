@@ -35,7 +35,7 @@ Play locally with your friend on the same device and enjoy the polished interfac
 ---
 
 ## 📂 Project Folder Structure
-
+```
 TicTacToe/
 ├── app/
 │ ├── src/
@@ -49,7 +49,7 @@ TicTacToe/
 ├── screenshots/
 │ ├── game_screen.png
 │ └── result_screen.png
-
+```
 
 ---
 
