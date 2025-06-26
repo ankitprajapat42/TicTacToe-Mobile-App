@@ -71,5 +71,5 @@ TicTacToe/
 
 ## 🙋‍♂️ Developed By
 ### Ankit Prajapat
-- 📧 ankitprajapat9414@gmail.com  
-- 🌐 https://github.com/ankitprajapat42/
+📧 ankitprajapat9414@gmail.com  
+🌐 https://github.com/ankitprajapat42/
